@@ -6,8 +6,8 @@
 
 | 文档 | 说明 |
 |---|------|
-| [compliance/index.md](compliance/index.md) | 合规主权托管：业务意图与验证路径 |
-| [compliance/algorithm.md](compliance/algorithm.md) | 算法备案托管：第一个落地场景 |
+| [compliance/index.md](compliance/index.md) | 合规业务意图：自己先跑通，推己及人 |
+| [compliance/algorithm.md](compliance/algorithm.md) | 算法备案：自己先走通的第一关 |
 
 ## 许可
 
